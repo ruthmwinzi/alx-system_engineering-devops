@@ -1,3 +1,1 @@
-#!/bin/bash
-pwd
-System devops
+system devOps
